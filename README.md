@@ -1,6 +1,14 @@
 # Happier, Less Lonely-- https://public.tableau.com/profile/pollyhsia#!/vizhome/Finalversion_Happierlesslonely/Happierlesslonely?publish=yes
 ## Project Outline and Tableau Summary
 
+Group 3: 
+Qiao Zhang
+Xuan Yang
+Mengchen Xiao
+Pei-Hsuan Hsia
+Guangyu Xing
+
+
 ### Part 1--Data and Story Description 
 
 This story has used the dataset Young People Survey from Kaggle which explores the preferences, interests, habits, opinions and fears of youngsters. The original survey was presented to the young between 15 and 30 by both electronic and written forms, and 1010 pieces of information were collected. 
