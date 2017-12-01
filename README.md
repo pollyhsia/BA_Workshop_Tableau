@@ -16,7 +16,7 @@ For the happiness part, we leveraged the chart function in Tableau and found six
 
 For the loneliness part, We digged a little into the features of people who have high level of loneliness. In people with different level of education, it seems that primary school pupils regardless of gender are the group that feel lonely the most, while most of people say they are OK. Besides, people live in villages who spend most of the day on internet are very lonely. People who live cities feels better about loneliness. What is more, people who never drink and never smoke are the group that claims to be highly lonely. The level of loneliness varies among people’s background such as age, education and location. From the result of our story, we provide some suggestion for people to deal with the issue of loneliness: to enjoy eating instead of doing it for survival, to make more friends, and to adapt to new environment faster.
 
-### Part 2--Chanllenges and conquest
+### Part 3--Chanllenges and conquest
 
 During the process of exploring the dataset, we encountered many challenges. For instance, the data covers extensive topics in psychology, but it is challengeable to dig into the inner relation behind the potential problem we figure out due to the limitation of data and the limitation of our understanding of psychological theories in this domain.
 
